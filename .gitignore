@@ -1,0 +1,7 @@
+cfg.json
+.claude/
+CLAUDE.md
+venv/
+__pycache__/
+*.pyc
+.idea/

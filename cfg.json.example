@@ -1,0 +1,9 @@
+{
+  "token": "your_api_token_here",
+  "bark_api": "https://api.day.app",
+  "bark_key": "your_bark_key_here",
+  "cate_id": 5,
+  "type": 1,
+  "project_name": "chatgpt",
+  "interval": 60
+}
